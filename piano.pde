@@ -8,6 +8,6 @@ void setup()
 Keys keys;
 void draw()
 {
-  keys.pressem();
+  keys.keyReleased();
  
 }
